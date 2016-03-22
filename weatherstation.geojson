@@ -1,0 +1,3485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 106,
+      "properties": {
+        "V1": "USW00023155",
+        "V2": "BAKERSFIELD AP",
+        "V5": 171.178,
+        "V6": 59.90461,
+        "V7": 0.0442718,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0542,
+          35.4344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "properties": {
+        "V1": "USW00024131",
+        "V2": "BOISE AIR TERMINAL",
+        "V5": 185.5396,
+        "V6": 52.22248,
+        "V7": 0.1007376,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2406,
+          43.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 348,
+      "properties": {
+        "V1": "USW00024157",
+        "V2": "SPOKANE INTL AP",
+        "V5": 215.9748,
+        "V6": 44.04921,
+        "V7": 0.1435241,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5281,
+          47.6217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 405,
+      "properties": {
+        "V1": "USW00023185",
+        "V2": "RENO TAHOE INTL AP",
+        "V5": 211.386,
+        "V6": 82.23686,
+        "V7": 0.0359328,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7711,
+          39.4839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 411,
+      "properties": {
+        "V1": "USW00023050",
+        "V2": "ALBUQUERQUE INTL AP",
+        "V5": 238.6158,
+        "V6": 85.14125,
+        "V7": 0.0469787,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6156,
+          35.0419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 723,
+      "properties": {
+        "V1": "USW00093193",
+        "V2": "FRESNO YOSEMITE INTL AP",
+        "V5": 269.2988,
+        "V6": 81.81855,
+        "V7": -0.0628563,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7194,
+          36.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 731,
+      "properties": {
+        "V1": "USW00023258",
+        "V2": "MODESTO CITY CO AP",
+        "V5": 259.3234,
+        "V6": 79.76688,
+        "V7": 0.099277,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9506,
+          37.6242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 742,
+      "properties": {
+        "V1": "USC00028499",
+        "V2": "TEMPE ASU",
+        "V5": 262.7114,
+        "V6": 86.79125,
+        "V7": 0.0356439,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9217,
+          33.4258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 747,
+      "properties": {
+        "V1": "USC00046624",
+        "V2": "PALMDALE",
+        "V5": 265.8157,
+        "V6": 124.4323,
+        "V7": -0.1998744,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0939,
+          34.5883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 753,
+      "properties": {
+        "V1": "USC00028598",
+        "V2": "TOLLESON 1 E",
+        "V5": 243.3026,
+        "V6": 88.12273,
+        "V7": 0.2322003,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2433,
+          33.4519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771,
+      "properties": {
+        "V1": "USW00023233",
+        "V2": "SALINAS MUNICIPAL AP",
+        "V5": 255.9424,
+        "V6": 92.70767,
+        "V7": 0.1202955,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6081,
+          36.6636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 784,
+      "properties": {
+        "V1": "USC00049367",
+        "V2": "VISALIA",
+        "V5": 257.5301,
+        "V6": 76.83808,
+        "V7": 0.2305291,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2992,
+          36.3283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 799,
+      "properties": {
+        "V1": "USC00021514",
+        "V2": "CHANDLER HEIGHTS",
+        "V5": 281.5359,
+        "V6": 134.4543,
+        "V7": -0.3366613,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6819,
+          33.2058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 848,
+      "properties": {
+        "V1": "USW00023044",
+        "V2": "EL PASO INTL AP",
+        "V5": 297.5085,
+        "V6": 111.2592,
+        "V7": -0.0792133,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3758,
+          31.8111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 862,
+      "properties": {
+        "V1": "USW00003159",
+        "V2": "LANCASTER WM J FOX FLD",
+        "V5": 252.0538,
+        "V6": 131.0047,
+        "V7": 0.0487312,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2117,
+          34.7411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 865,
+      "properties": {
+        "V1": "USC00041758",
+        "V2": "CHULA VISTA",
+        "V5": 280.8531,
+        "V6": 109.7739,
+        "V7": -0.0868614,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0858,
+          32.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883,
+      "properties": {
+        "V1": "USC00029634",
+        "V2": "YOUNGTOWN",
+        "V5": 271.0859,
+        "V6": 97.94254,
+        "V7": 0.0895349,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3014,
+          33.595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 965,
+      "properties": {
+        "V1": "USW00023244",
+        "V2": "MOFFETT FEDERAL AIRFIELD",
+        "V5": 286.3145,
+        "V6": 103.3996,
+        "V7": 0.0709746,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0481,
+          37.4058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086,
+      "properties": {
+        "V1": "USW00023160",
+        "V2": "TUCSON INTL AP",
+        "V5": 299.3443,
+        "V6": 101.4663,
+        "V7": 0.1448111,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9553,
+          32.1314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1161,
+      "properties": {
+        "V1": "USC00059147",
+        "V2": "WINDSOR",
+        "V5": 339.5397,
+        "V6": 134.5525,
+        "V7": 0.1037462,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9,
+          40.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1174,
+      "properties": {
+        "V1": "USC00048560",
+        "V2": "STOCKTON FIRE STA 4",
+        "V5": 339.0316,
+        "V6": 118.669,
+        "V7": -0.127752,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3178,
+          37.9994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1235,
+      "properties": {
+        "V1": "USC00047111",
+        "V2": "POWAY VALLEY",
+        "V5": 351.0872,
+        "V6": 143.2448,
+        "V7": -0.2300742,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0292,
+          33.0175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1253,
+      "properties": {
+        "V1": "USC00049378",
+        "V2": "VISTA 2 NNE",
+        "V5": 340.3253,
+        "V6": 143.4494,
+        "V7": -0.1069225,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2269,
+          33.2294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255,
+      "properties": {
+        "V1": "USC00021282",
+        "V2": "CAREFREE",
+        "V5": 331.6351,
+        "V6": 132.6323,
+        "V7": 0.0061681,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9019,
+          33.8161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1298,
+      "properties": {
+        "V1": "USC00054762",
+        "V2": "LAKEWOOD",
+        "V5": 373.6619,
+        "V6": 144.9135,
+        "V7": -0.0793816,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1206,
+          39.7489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1354,
+      "properties": {
+        "V1": "USC00047306",
+        "V2": "REDLANDS",
+        "V5": 342.8038,
+        "V6": 137.1228,
+        "V7": 0.070828,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1894,
+          34.0528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1365,
+      "properties": {
+        "V1": "USW00024229",
+        "V2": "PORTLAND INTL AP",
+        "V5": 389.6924,
+        "V6": 102.0066,
+        "V7": -0.2008797,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6003,
+          45.5908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1377,
+      "properties": {
+        "V1": "USW00023232",
+        "V2": "SACRAMENTO EXECUTIVE AP",
+        "V5": 361.5492,
+        "V6": 136.9951,
+        "V7": -0.031422,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.495,
+          38.5069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1427,
+      "properties": {
+        "V1": "USW00023271",
+        "V2": "SACRAMENTO 5 ESE",
+        "V5": 370.3798,
+        "V6": 135.4295,
+        "V7": -0.0148724,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4169,
+          38.5556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1492,
+      "properties": {
+        "V1": "USW00023062",
+        "V2": "DENVER-STAPLETON",
+        "V5": 379.235,
+        "V6": 132.0014,
+        "V7": 0.2255964,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8694,
+          39.7633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1496,
+      "properties": {
+        "V1": "USW00093037",
+        "V2": "COLORADO SPRINGS MUNI AP",
+        "V5": 380.0953,
+        "V6": 145.5879,
+        "V7": 0.1790105,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6883,
+          38.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1499,
+      "properties": {
+        "V1": "USW00024281",
+        "V2": "SEATTLE URBAN SITE",
+        "V5": 404.3144,
+        "V6": 98.92506,
+        "V7": 0.0703084,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3,
+          47.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1508,
+      "properties": {
+        "V1": "USC00456803",
+        "V2": "PUYALLUP 2 W EXP STN",
+        "V5": 400.9601,
+        "V6": 96.89819,
+        "V7": 0.1254938,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3333,
+          47.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1560,
+      "properties": {
+        "V1": "USC00356749",
+        "V2": "PORTLAND KGW-TV",
+        "V5": 402.1855,
+        "V6": 113.3225,
+        "V7": -0.0306074,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6894,
+          45.5181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1564,
+      "properties": {
+        "V1": "USW00023129",
+        "V2": "LONG BEACH DAUGHERTY FLD",
+        "V5": 373.0583,
+        "V6": 160.4329,
+        "V7": 0.016163,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1464,
+          33.8117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1634,
+      "properties": {
+        "V1": "USW00014768",
+        "V2": "ROCHESTER GTR INTL AP",
+        "V5": 443.7215,
+        "V6": 123.9537,
+        "V7": 0.0605582,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6767,
+          43.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1680,
+      "properties": {
+        "V1": "USC00049087",
+        "V2": "TUSTIN IRVINE RCH",
+        "V5": 375.6954,
+        "V6": 166.0951,
+        "V7": 0.0844304,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7539,
+          33.7025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1727,
+      "properties": {
+        "V1": "USW00024232",
+        "V2": "SALEM MCNARY FLD",
+        "V5": 445.1602,
+        "V6": 105.1318,
+        "V7": -0.1815242,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0011,
+          44.905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1867,
+      "properties": {
+        "V1": "USC00451484",
+        "V2": "CLEARBROOK",
+        "V5": 464.8454,
+        "V6": 112.5201,
+        "V7": -0.1278164,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3292,
+          48.9672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2008,
+      "properties": {
+        "V1": "USW00014733",
+        "V2": "BUFFALO",
+        "V5": 462.7834,
+        "V6": 119.3045,
+        "V7": 0.2814846,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7369,
+          42.9486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2090,
+      "properties": {
+        "V1": "USC00047723",
+        "V2": "SAN BERNARDINO F S 226",
+        "V5": 426.0553,
+        "V6": 159.3976,
+        "V7": 0.0922719,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2539,
+          34.1344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2124,
+      "properties": {
+        "V1": "USW00014820",
+        "V2": "CLEVELAND",
+        "V5": 488.6274,
+        "V6": 135.3398,
+        "V7": 0.0708553,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.86,
+          41.4131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2227,
+      "properties": {
+        "V1": "USC00046336",
+        "V2": "OAKLAND MUSEUM",
+        "V5": 436.4298,
+        "V6": 162.9948,
+        "V7": 0.0835249,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2642,
+          37.7983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2319,
+      "properties": {
+        "V1": "USW00014771",
+        "V2": "SYRACUSE HANCOCK INTL AP",
+        "V5": 509.5473,
+        "V6": 157.9048,
+        "V7": 0.0317907,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1039,
+          43.1111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2428,
+      "properties": {
+        "V1": "USC00360861",
+        "V2": "BRADDOCK LOCK 2",
+        "V5": 474.9857,
+        "V6": 115.1654,
+        "V7": 0.3074405,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8594,
+          40.3917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2447,
+      "properties": {
+        "V1": "USC00047414",
+        "V2": "RICHMOND",
+        "V5": 469.2038,
+        "V6": 156.7058,
+        "V7": 0.041943,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3772,
+          37.9192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2448,
+      "properties": {
+        "V1": "USC00338366",
+        "V2": "TOLEDO BLADE",
+        "V5": 501.6501,
+        "V6": 160.7618,
+        "V7": 0.141815,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5333,
+          41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2503,
+      "properties": {
+        "V1": "USW00014895",
+        "V2": "AKRON CANTON RGNL AP",
+        "V5": 511.9457,
+        "V6": 147.253,
+        "V7": 0.1008633,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4333,
+          40.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2510,
+      "properties": {
+        "V1": "USW00023047",
+        "V2": "AMARILLO",
+        "V5": 486.677,
+        "V6": 176.601,
+        "V7": 0.0905457,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7089,
+          35.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2592,
+      "properties": {
+        "V1": "USW00003122",
+        "V2": "TORRANCE AP",
+        "V5": 439.8741,
+        "V6": 203.719,
+        "V7": 0.0831926,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3411,
+          33.8017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2676,
+      "properties": {
+        "V1": "USC00123027",
+        "V2": "FT WAYNE DISPOSAL PLT",
+        "V5": 562.2621,
+        "V6": 196.8455,
+        "V7": -0.1385132,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1167,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2699,
+      "properties": {
+        "V1": "USW00023042",
+        "V2": "LUBBOCK",
+        "V5": 483.3499,
+        "V6": 184.1565,
+        "V7": 0.1527061,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8136,
+          33.6542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2734,
+      "properties": {
+        "V1": "USW00014922",
+        "V2": "MINNEAPOLIS/ST PAUL AP",
+        "V5": 505.7584,
+        "V6": 144.2417,
+        "V7": 0.205333,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2289,
+          44.8831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2833,
+      "properties": {
+        "V1": "USW00014944",
+        "V2": "SIOUX FALLS",
+        "V5": 539.3149,
+        "V6": 185.3311,
+        "V7": 0.08459,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7289,
+          43.5878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2937,
+      "properties": {
+        "V1": "USW00094918",
+        "V2": "OMAHA #1",
+        "V5": 547.9798,
+        "V6": 183.1261,
+        "V7": -0.0389506,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0233,
+          41.3536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2995,
+      "properties": {
+        "V1": "USC00479046",
+        "V2": "WEST ALLIS",
+        "V5": 566.718,
+        "V6": 164.4546,
+        "V7": -0.0973979,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0017,
+          43.0175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3004,
+      "properties": {
+        "V1": "USC00046569",
+        "V2": "OXNARD",
+        "V5": 473.7939,
+        "V6": 196.7684,
+        "V7": 0.1339465,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1753,
+          34.1981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3036,
+      "properties": {
+        "V1": "USW00094860",
+        "V2": "GRAND RAPIDS",
+        "V5": 576.7522,
+        "V6": 203.8256,
+        "V7": -0.3337234,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5447,
+          42.8939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3065,
+      "properties": {
+        "V1": "USC00332067",
+        "V2": "DAYTON-MCD",
+        "V5": 587.8876,
+        "V6": 178.249,
+        "V7": -0.1315301,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1911,
+          39.7633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3190,
+      "properties": {
+        "V1": "USC00217377",
+        "V2": "ST PAUL",
+        "V5": 561.4762,
+        "V6": 243.4792,
+        "V7": -0.0865674,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.03,
+          44.9461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3252,
+      "properties": {
+        "V1": "USC00111160",
+        "V2": "CAHOKIA",
+        "V5": 597.3159,
+        "V6": 139.6217,
+        "V7": -0.020169,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1942,
+          38.5669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3283,
+      "properties": {
+        "V1": "USW00093812",
+        "V2": "CINCINNATI LUNKEN AP",
+        "V5": 598.0303,
+        "V6": 161.6113,
+        "V7": -0.0070119,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4189,
+          39.1033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3385,
+      "properties": {
+        "V1": "USC00284339",
+        "V2": "JERSEY CITY",
+        "V5": 574.8707,
+        "V6": 193.8196,
+        "V7": 0.1442678,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0572,
+          40.7419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3403,
+      "properties": {
+        "V1": "USC00470273",
+        "V2": "ARBORETUM UNIV WIS",
+        "V5": 557.6957,
+        "V6": 184.226,
+        "V7": 0.0709643,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4286,
+          43.0411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3421,
+      "properties": {
+        "V1": "USW00014933",
+        "V2": "DES MOINES INTL AP",
+        "V5": 605.0255,
+        "V6": 170.857,
+        "V7": 0.0900166,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6531,
+          41.5339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3473,
+      "properties": {
+        "V1": "USW00014990",
+        "V2": "CEDAR RAPIDS MUNI AP",
+        "V5": 622.7103,
+        "V6": 164.4454,
+        "V7": 0.0551998,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7167,
+          41.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3543,
+      "properties": {
+        "V1": "USW00014971",
+        "V2": "LINCOLN UNIV PWR PLT",
+        "V5": 583.7548,
+        "V6": 211.2316,
+        "V7": 0.0116141,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7025,
+          40.8233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3681,
+      "properties": {
+        "V1": "USW00014752",
+        "V2": "HARTFORD BRAINARD FLD",
+        "V5": 631.7832,
+        "V6": 145.4394,
+        "V7": 0.1172946,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6506,
+          41.7361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3686,
+      "properties": {
+        "V1": "USW00024221",
+        "V2": "EUGENE MAHLON SWEET AP",
+        "V5": 582.456,
+        "V6": 189.0095,
+        "V7": -0.0645898,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2206,
+          44.1278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3814,
+      "properties": {
+        "V1": "USW00013881",
+        "V2": "CHARLOTTE DOUGLAS AP",
+        "V5": 587.61,
+        "V6": 161.9483,
+        "V7": 0.1578371,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9553,
+          35.2236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3854,
+      "properties": {
+        "V1": "USW00003928",
+        "V2": "WICHITA",
+        "V5": 606.2739,
+        "V6": 220.7616,
+        "V7": 0.085872,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4425,
+          37.6544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3857,
+      "properties": {
+        "V1": "USW00013996",
+        "V2": "TOPEKA MUNI AP",
+        "V5": 659.0656,
+        "V6": 166.9662,
+        "V7": 0.0252456,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6261,
+          39.0725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3891,
+      "properties": {
+        "V1": "USC00047965",
+        "V2": "SANTA ROSA",
+        "V5": 605.1809,
+        "V6": 250.1983,
+        "V7": -0.2149531,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6978,
+          38.4381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3957,
+      "properties": {
+        "V1": "USW00013743",
+        "V2": "WASHINGTON REAGAN AP",
+        "V5": 584.1248,
+        "V6": 196.8237,
+        "V7": 0.2310303,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342,
+          38.8483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3996,
+      "properties": {
+        "V1": "USC00193702",
+        "V2": "HOLYOKE",
+        "V5": 599.9867,
+        "V6": 158.4845,
+        "V7": 0.3698606,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6,
+          42.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4047,
+      "properties": {
+        "V1": "USC00404946",
+        "V2": "KNOXVILLE EXP STN",
+        "V5": 620.5359,
+        "V6": 177.2247,
+        "V7": 0.0763903,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9572,
+          35.8819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4054,
+      "properties": {
+        "V1": "USC00114530",
+        "V2": "JOLIET BRANDON RD DAM",
+        "V5": 609.9012,
+        "V6": 188.7019,
+        "V7": 0.2232928,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1028,
+          41.5033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4135,
+      "properties": {
+        "V1": "USW00094822",
+        "V2": "ROCKFORD GTR ROCKFORD AP",
+        "V5": 635.9536,
+        "V6": 204.9942,
+        "V7": 0.1724346,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0931,
+          42.1928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4139,
+      "properties": {
+        "V1": "USW00093820",
+        "V2": "LEXINGTON BLUEGRASS AP",
+        "V5": 651.8839,
+        "V6": 182.3424,
+        "V7": -0.0026156,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6058,
+          38.0408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4159,
+      "properties": {
+        "V1": "USW00013777",
+        "V2": "BALTIMORE CUSTOMS HOUSE",
+        "V5": 635.587,
+        "V6": 314.5219,
+        "V7": -0.1711069,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6167,
+          39.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4188,
+      "properties": {
+        "V1": "USW00013714",
+        "V2": "POPE AFB",
+        "V5": 650.9388,
+        "V6": 330.1583,
+        "V7": -0.3432087,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0089,
+          35.1739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4193,
+      "properties": {
+        "V1": "USW00094746",
+        "V2": "WORCESTER RGNL AP",
+        "V5": 673.491,
+        "V6": 192.8943,
+        "V7": 0.1121755,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8731,
+          42.2706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4199,
+      "properties": {
+        "V1": "USW00014739",
+        "V2": "BOSTON LOGAN INTL AP",
+        "V5": 665.194,
+        "V6": 184.6302,
+        "V7": 0.1617639,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0106,
+          42.3606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4205,
+      "properties": {
+        "V1": "USC00119221",
+        "V2": "WHEATON 3 SE",
+        "V5": 632.0743,
+        "V6": 175.7218,
+        "V7": 0.3009375,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0728,
+          41.8128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4249,
+      "properties": {
+        "V1": "USC00110338",
+        "V2": "AURORA",
+        "V5": 616.0812,
+        "V6": 212.9931,
+        "V7": 0.2463975,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3092,
+          41.7806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4279,
+      "properties": {
+        "V1": "USW00014758",
+        "V2": "NEW HAVEN TWEED AP",
+        "V5": 696.9903,
+        "V6": 266.5354,
+        "V7": -0.1671043,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8872,
+          41.2639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4290,
+      "properties": {
+        "V1": "USC00046719",
+        "V2": "PASADENA",
+        "V5": 592.388,
+        "V6": 278.3795,
+        "V7": -0.0244713,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1447,
+          34.1483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4306,
+      "properties": {
+        "V1": "USC00415701",
+        "V2": "MCALLEN",
+        "V5": 607.3636,
+        "V6": 323.5775,
+        "V7": 0.0159538,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2511,
+          26.1917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4346,
+      "properties": {
+        "V1": "USW00003927",
+        "V2": "DALLAS FT WORTH AP",
+        "V5": 704.9175,
+        "V6": 211.9775,
+        "V7": -0.1379413,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0189,
+          32.8978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4369,
+      "properties": {
+        "V1": "USC00518316",
+        "V2": "PUNCHBOWL CRATER 709",
+        "V5": 508.7719,
+        "V6": 213.2659,
+        "V7": 0.0256335,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8458,
+          21.3103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4421,
+      "properties": {
+        "V1": "USW00014765",
+        "V2": "PROVIDENCE T F GREEN AP",
+        "V5": 694.2347,
+        "V6": 198.7385,
+        "V7": 0.1007268,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4325,
+          41.7219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4432,
+      "properties": {
+        "V1": "USC00090444",
+        "V2": "ATLANTA 9NW",
+        "V5": 667.6497,
+        "V6": 142.7215,
+        "V7": 0.085037,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4961,
+          33.8264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4439,
+      "properties": {
+        "V1": "USW00013723",
+        "V2": "PIEDMONT TRIAD INTL AP",
+        "V5": 663.1522,
+        "V6": 202.3176,
+        "V7": -0.0124948,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9433,
+          36.0969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4449,
+      "properties": {
+        "V1": "USW00093821",
+        "V2": "LOUISVILLE INTL AP",
+        "V5": 637.4006,
+        "V6": 184.1907,
+        "V7": 0.2199456,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7392,
+          38.1811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4455,
+      "properties": {
+        "V1": "USW00094702",
+        "V2": "BRIDGEPORT SIKORSKY MEM AP",
+        "V5": 671.2689,
+        "V6": 220.9487,
+        "V7": 0.0965481,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1289,
+          41.1583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4504,
+      "properties": {
+        "V1": "USC00419417",
+        "V2": "WACO DAM",
+        "V5": 668.1594,
+        "V6": 171.6551,
+        "V7": 0.2188592,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2169,
+          31.6003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4521,
+      "properties": {
+        "V1": "USC00317079",
+        "V2": "RALEIGH STATE UNIV",
+        "V5": 649.0705,
+        "V6": 166.114,
+        "V7": 0.2309219,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6989,
+          35.7944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4557,
+      "properties": {
+        "V1": "USC00046162",
+        "V2": "NEWHALL S FC32CE",
+        "V5": 593.7748,
+        "V6": 258.9598,
+        "V7": 0.1299607,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5342,
+          34.3869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4599,
+      "properties": {
+        "V1": "USW00013722",
+        "V2": "RALEIGH DURHAM INTL AP",
+        "V5": 676.1904,
+        "V6": 200.0436,
+        "V7": 0.0133922,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7819,
+          35.8922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4605,
+      "properties": {
+        "V1": "USW00013995",
+        "V2": "SPRINGFIELD",
+        "V5": 737.1226,
+        "V6": 193.7551,
+        "V7": 0.1086789,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4003,
+          37.2353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4628,
+      "properties": {
+        "V1": "USC00186350",
+        "V2": "NATL ARBORETUM DC",
+        "V5": 649.821,
+        "V6": 230.4372,
+        "V7": 0.1308786,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97,
+          38.9133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4630,
+      "properties": {
+        "V1": "USC00410691",
+        "V2": "BENBROOK DAM",
+        "V5": 698.7482,
+        "V6": 222.7392,
+        "V7": 0.0285259,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4439,
+          32.6475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4735,
+      "properties": {
+        "V1": "USW00003820",
+        "V2": "AUGUSTA BUSH FLD AP",
+        "V5": 677.1075,
+        "V6": 176.1732,
+        "V7": 0.0845656,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9633,
+          33.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4737,
+      "properties": {
+        "V1": "USC00415060",
+        "V2": "LAREDO 2",
+        "V5": 645.7595,
+        "V6": 240.6159,
+        "V7": 0.1924864,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4983,
+          27.5683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4743,
+      "properties": {
+        "V1": "USC00314970",
+        "V2": "LEXINGTON",
+        "V5": 676.7542,
+        "V6": 212.7872,
+        "V7": 0.0474528,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2597,
+          35.8458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4801,
+      "properties": {
+        "V1": "USC00387666",
+        "V2": "SANDHILL RSCH ELGIN",
+        "V5": 643.5386,
+        "V6": 166.8503,
+        "V7": 0.3122369,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.87,
+          34.1419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4861,
+      "properties": {
+        "V1": "USW00093901",
+        "V2": "DALLAS HENSLEY FLD NAS",
+        "V5": 733.9245,
+        "V6": 261.3764,
+        "V7": -0.052507,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9667,
+          32.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4920,
+      "properties": {
+        "V1": "USW00013897",
+        "V2": "NASHVILLE INTL AP",
+        "V5": 712.5458,
+        "V6": 193.5255,
+        "V7": 0.0708785,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6892,
+          36.1189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4943,
+      "properties": {
+        "V1": "USC00401790",
+        "V2": "CLARKSVILLE WWTP",
+        "V5": 689.2047,
+        "V6": 164.2305,
+        "V7": 0.2976085,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3353,
+          36.5472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4951,
+      "properties": {
+        "V1": "USC00500243",
+        "V2": "ALYESKA",
+        "V5": 688.3449,
+        "V6": 317.6182,
+        "V7": -0.1538135,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1108,
+          60.9583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5023,
+      "properties": {
+        "V1": "USC00302129",
+        "V2": "DOBBS FERRY-ARDSLEY",
+        "V5": 749.561,
+        "V6": 199.001,
+        "V7": 0.1816822,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8344,
+          41.0072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5074,
+      "properties": {
+        "V1": "USC00312515",
+        "V2": "DURHAM",
+        "V5": 701.0146,
+        "V6": 210.9394,
+        "V7": 0.0963698,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9625,
+          36.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5157,
+      "properties": {
+        "V1": "USW00013967",
+        "V2": "OKLAHOMA CITY WILL ROGERS A",
+        "V5": 746.9465,
+        "V6": 270.7487,
+        "V7": 0.0605234,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6006,
+          35.3889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5159,
+      "properties": {
+        "V1": "USW00013893",
+        "V2": "MEMPHIS INTL AP",
+        "V5": 766.9812,
+        "V6": 212.5861,
+        "V7": -0.1225456,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9864,
+          35.0564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5166,
+      "properties": {
+        "V1": "USW00013882",
+        "V2": "CHATTANOOGA LOVELL AP",
+        "V5": 725.1472,
+        "V6": 202.5768,
+        "V7": 0.1121953,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2014,
+          35.0311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5232,
+      "properties": {
+        "V1": "USC00044867",
+        "V2": "LECHUZA PTRL ST FC352B",
+        "V5": 635.877,
+        "V6": 257.3262,
+        "V7": 0.2280303,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8803,
+          34.0764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5234,
+      "properties": {
+        "V1": "USW00012815",
+        "V2": "ORLANDO INTL AP",
+        "V5": 739.1706,
+        "V6": 231.4949,
+        "V7": -0.1221886,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.325,
+          28.4339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5281,
+      "properties": {
+        "V1": "USC00448837",
+        "V2": "WALLACETON LK DRUMMOND",
+        "V5": 673.9629,
+        "V6": 202.3388,
+        "V7": 0.4296578,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4386,
+          36.5956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5404,
+      "properties": {
+        "V1": "USC00164398",
+        "V2": "HOSSTON",
+        "V5": 773.5202,
+        "V6": 204.9736,
+        "V7": 0.0464956,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8372,
+          32.4508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5428,
+      "properties": {
+        "V1": "USW00013769",
+        "V2": "OCEANA NAS",
+        "V5": 729.3326,
+        "V6": 360.5968,
+        "V7": -0.0604619,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0333,
+          36.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5429,
+      "properties": {
+        "V1": "USW00013968",
+        "V2": "TULSA INTL AP",
+        "V5": 796.1491,
+        "V6": 250.957,
+        "V7": 0.0620958,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8872,
+          36.1994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5436,
+      "properties": {
+        "V1": "USC00044628",
+        "V2": "LA CRESCENTA FC251 C",
+        "V5": 655.9497,
+        "V6": 345.9495,
+        "V7": 0.0438628,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2378,
+          34.2222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5485,
+      "properties": {
+        "V1": "USC00284887",
+        "V2": "LITTLE FALLS",
+        "V5": 720.5982,
+        "V6": 222.6035,
+        "V7": 0.3269605,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2261,
+          40.8858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5499,
+      "properties": {
+        "V1": "USW00012816",
+        "V2": "GAINESVILLE RGNL AP",
+        "V5": 739.0433,
+        "V6": 200.3856,
+        "V7": 0.1170706,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2756,
+          29.6919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5527,
+      "properties": {
+        "V1": "USW00013750",
+        "V2": "NORFOLK NAS",
+        "V5": 737.5688,
+        "V6": 336.5127,
+        "V7": -0.0242436,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2833,
+          36.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5598,
+      "properties": {
+        "V1": "USW00093842",
+        "V2": "COLUMBUS METRO AP",
+        "V5": 777.9991,
+        "V6": 245.7528,
+        "V7": -0.1338628,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9422,
+          32.5161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5651,
+      "properties": {
+        "V1": "USW00003856",
+        "V2": "HUNTSVILLE INTL AP",
+        "V5": 800.3339,
+        "V6": 244.0846,
+        "V7": -0.0174617,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7861,
+          34.6439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5680,
+      "properties": {
+        "V1": "USW00013876",
+        "V2": "BIRMINGHAM AP",
+        "V5": 754.8549,
+        "V6": 215.156,
+        "V7": 0.2504304,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.745,
+          33.5656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5714,
+      "properties": {
+        "V1": "USC00418646",
+        "V2": "STILLHOUSE HOLLOW DAM",
+        "V5": 713.201,
+        "V6": 220.5179,
+        "V7": 0.4033955,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5283,
+          31.0372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5838,
+      "properties": {
+        "V1": "USW00012842",
+        "V2": "TAMPA INTL AP",
+        "V5": 728.7208,
+        "V6": 261.0374,
+        "V7": 0.1756401,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5403,
+          27.9619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5882,
+      "properties": {
+        "V1": "USC00415766",
+        "V2": "MCKINNEY  MUNICIPAL AIRPORT",
+        "V5": 818.41,
+        "V6": 313.1949,
+        "V7": 0.0408523,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5914,
+          33.1903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5899,
+      "properties": {
+        "V1": "USC00417707",
+        "V2": "ROCKWALL",
+        "V5": 873.8068,
+        "V6": 269.6655,
+        "V7": -0.0781424,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4647,
+          32.9331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5903,
+      "properties": {
+        "V1": "USW00013895",
+        "V2": "MONTGOMERY AP",
+        "V5": 809.9514,
+        "V6": 269.6167,
+        "V7": 0.0765702,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4075,
+          32.2997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5974,
+      "properties": {
+        "V1": "USW00003822",
+        "V2": "SAVANNAH INTL AP",
+        "V5": 769.8378,
+        "V6": 246.2816,
+        "V7": 0.1814191,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21,
+          32.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6130,
+      "properties": {
+        "V1": "USC00083207",
+        "V2": "FT PIERCE",
+        "V5": 787.3264,
+        "V6": 265.4796,
+        "V7": 0.193219,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3508,
+          27.4419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6144,
+      "properties": {
+        "V1": "USW00003940",
+        "V2": "JACKSON INTL AP",
+        "V5": 893.0842,
+        "V6": 232.2586,
+        "V7": 0.0716304,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0778,
+          32.3206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6182,
+      "properties": {
+        "V1": "USW00012919",
+        "V2": "BROWNSVILLE",
+        "V5": 810.5871,
+        "V6": 327.886,
+        "V7": 0.2078977,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4186,
+          25.9156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6196,
+      "properties": {
+        "V1": "USW00012835",
+        "V2": "FT MYERS PAGE FLD AP",
+        "V5": 871.6238,
+        "V6": 277.458,
+        "V7": -0.0475057,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8614,
+          26.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6218,
+      "properties": {
+        "V1": "USW00092806",
+        "V2": "ST PETERSBURG AP",
+        "V5": 839.4279,
+        "V6": 261.3427,
+        "V7": 0.1483078,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6261,
+          27.7628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6219,
+      "properties": {
+        "V1": "USC00031750",
+        "V2": "CRYSTAL VALLEY",
+        "V5": 839.4952,
+        "V6": 235.4998,
+        "V7": 0.2980668,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.45,
+          34.6886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6263,
+      "properties": {
+        "V1": "USW00012926",
+        "V2": "CORPUS CHRISTI NAS",
+        "V5": 875.8934,
+        "V6": 444.1167,
+        "V7": -0.0152823,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2833,
+          27.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6287,
+      "properties": {
+        "V1": "USW00092811",
+        "V2": "MIAMI BEACH",
+        "V5": 890.3114,
+        "V6": 273.0591,
+        "V7": 0.0808015,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1336,
+          25.8064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6388,
+      "properties": {
+        "V1": "USW00013970",
+        "V2": "BATON ROUGE RYAN AP",
+        "V5": 979.088,
+        "V6": 299.7802,
+        "V7": 0.1109443,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1469,
+          30.5372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6408,
+      "properties": {
+        "V1": "USC00414315",
+        "V2": "HOUSTON DEER PARK",
+        "V5": 932.4182,
+        "V6": 420.2853,
+        "V7": 0.1154593,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1306,
+          29.7283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6442,
+      "properties": {
+        "V1": "USW00093805",
+        "V2": "TALLAHASSEE",
+        "V5": 1004.454,
+        "V6": 322.1478,
+        "V7": 0.0320333,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3289,
+          30.3975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6451,
+      "properties": {
+        "V1": "USC00166672",
+        "V2": "NEW ORLEANS D P S 5",
+        "V5": 1014.026,
+        "V6": 350.4317,
+        "V7": 0.1757164,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0167,
+          29.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6453,
+      "properties": {
+        "V1": "USC00083909",
+        "V2": "HIALEAH",
+        "V5": 978.1409,
+        "V6": 342.0478,
+        "V7": 0.1074424,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2858,
+          25.8175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6491,
+      "properties": {
+        "V1": "USW00013894",
+        "V2": "MOBILE",
+        "V5": 1069.322,
+        "V6": 354.4859,
+        "V7": 0.0987803,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2397,
+          30.6794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6702,
+      "properties": {
+        "V1": "CA001101146",
+        "V2": "BURNABY CAPITOL HILL",
+        "V5": 644.3047,
+        "V6": 158.7137,
+        "V7": 0.0294491,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98,
+          49.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6708,
+      "properties": {
+        "V1": "CA001102425",
+        "V2": "DELTA TSAWWASSEN BEACH",
+        "V5": 336.3458,
+        "V6": 61.08842,
+        "V7": 0.1074399,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1,
+          49.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6716,
+      "properties": {
+        "V1": "CA001105669",
+        "V2": "N VANCOUVER WHARVES",
+        "V5": 552.2616,
+        "V6": 137.8591,
+        "V7": 0.1417264,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12,
+          49.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6718,
+      "properties": {
+        "V1": "CA001106CL2",
+        "V2": "PORT MOODY GLENAYRE",
+        "V5": 648.0951,
+        "V6": 192.8594,
+        "V7": -0.1157202,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88,
+          49.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6723,
+      "properties": {
+        "V1": "CA001107873",
+        "V2": "SURREY KWANTLEN PARK",
+        "V5": 516.5712,
+        "V6": 242.6251,
+        "V7": 0.0675166,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87,
+          49.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6971,
+      "properties": {
+        "V1": "CA004016651",
+        "V2": "REGINA GILMOUR",
+        "V5": 305.0221,
+        "V6": 98.81623,
+        "V7": 0.3039939,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.83,
+          50.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7026,
+      "properties": {
+        "V1": "CA004057180",
+        "V2": "SASKATOON SRC",
+        "V5": 277.1469,
+        "V6": 115.7549,
+        "V7": 0.0097162,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6,
+          52.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7072,
+      "properties": {
+        "V1": "CA005022791",
+        "V2": "STONY MOUNTAIN",
+        "V5": 364.2158,
+        "V6": 111.0032,
+        "V7": 0.3690742,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.17,
+          50.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7168,
+      "properties": {
+        "V1": "CA006117684",
+        "V2": "SHANTY BAY",
+        "V5": 408.683,
+        "V6": 81.76929,
+        "V7": 0.2468626,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63,
+          44.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7172,
+      "properties": {
+        "V1": "CA006122370",
+        "V2": "EXETER",
+        "V5": 419.638,
+        "V6": 127.5103,
+        "V7": 0.3825754,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.48,
+          43.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7185,
+      "properties": {
+        "V1": "CA006136626",
+        "V2": "PORT DALHOUSIE",
+        "V5": 394.2987,
+        "V6": 103.8031,
+        "V7": 0.1369931,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27,
+          43.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7193,
+      "properties": {
+        "V1": "CA006141095",
+        "V2": "CAMBRIDGE GALT MOE",
+        "V5": 432.2245,
+        "V6": 201.2759,
+        "V7": -0.137704,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.32,
+          43.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7200,
+      "properties": {
+        "V1": "CA006146711",
+        "V2": "PRESTON",
+        "V5": 461.3571,
+        "V6": 114.7801,
+        "V7": 0.1839224,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.42,
+          43.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7210,
+      "properties": {
+        "V1": "CA006152605",
+        "V2": "FRENCHMANS BAY",
+        "V5": 380.9247,
+        "V6": 97.76095,
+        "V7": 0.1347596,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.08,
+          43.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7211,
+      "properties": {
+        "V1": "CA006152695",
+        "V2": "GEORGETOWN WWTP",
+        "V5": 409.9304,
+        "V6": 126.4174,
+        "V7": 0.063652,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88,
+          43.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7214,
+      "properties": {
+        "V1": "CA006153300",
+        "V2": "HAMILTON RBG",
+        "V5": 462.6356,
+        "V6": 143.5057,
+        "V7": 0.1054842,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88,
+          43.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7218,
+      "properties": {
+        "V1": "CA006155878",
+        "V2": "OSHAWA WPCP",
+        "V5": 393.4566,
+        "V6": 94.11345,
+        "V7": 0.2556739,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.83,
+          43.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7219,
+      "properties": {
+        "V1": "CA006157012",
+        "V2": "RICHMOND HILL",
+        "V5": 384.0784,
+        "V6": 112.7381,
+        "V7": 0.0872122,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.45,
+          43.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7228,
+      "properties": {
+        "V1": "CA006159575",
+        "V2": "WOODBRIDGE",
+        "V5": 380.7039,
+        "V6": 168.9827,
+        "V7": -0.0694978,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6,
+          43.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7255,
+      "properties": {
+        "V1": "CA007017585",
+        "V2": "ST NARCISSE",
+        "V5": 447.9025,
+        "V6": 91.17754,
+        "V7": 0.1726923,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.43,
+          46.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7256,
+      "properties": {
+        "V1": "CA007017755",
+        "V2": "STE THERESE OUEST",
+        "V5": 437.4857,
+        "V6": 103.6236,
+        "V7": -0.0117807,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88,
+          45.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7263,
+      "properties": {
+        "V1": "CA007020860",
+        "V2": "BROMPTONVILLE",
+        "V5": 442.7775,
+        "V6": 121.4407,
+        "V7": -0.0565113,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.95,
+          45.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7287,
+      "properties": {
+        "V1": "CA007025257",
+        "V2": "MONTREAL JAR BOT",
+        "V5": 446.9207,
+        "V6": 108.9889,
+        "V7": 0.0529241,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.55,
+          45.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7325,
+      "properties": {
+        "V1": "CA007030170",
+        "V2": "ANGERS",
+        "V5": 404.5929,
+        "V6": 104.7667,
+        "V7": 0.0835139,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55,
+          45.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7398,
+      "properties": {
+        "V1": "CA007060320",
+        "V2": "ARVIDA",
+        "V5": 332.2261,
+        "V6": 75.9994,
+        "V7": 0.0858105,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17,
+          48.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7460,
+      "properties": {
+        "V1": "CA008202220",
+        "V2": "HALIFAX CITADEL",
+        "V5": 610.0657,
+        "V6": 193.3048,
+        "V7": -0.1715005,
+        "V8": null,
+        "V9": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58,
+          44.65
+        ]
+      }
+    }
+  ]
+}
